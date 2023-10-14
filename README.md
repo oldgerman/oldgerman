@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 
+Github统计卡片: 显示Stats
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md 
+-->
+[![OldGerman's GitHub stats](https://github-readme-stats.vercel.app/api?username=oldgerman)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Github统计卡片: 显示常用的编程语言 -->
+<!--
+![OldGerman's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=oldgerman&show_icons=true&count_private=true&theme=gotham)
+-->
+
+![OldGerman's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oldgerman&layout=compact&hide_border=true&langs_count=10)
+
+

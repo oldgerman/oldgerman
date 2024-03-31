@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
+Github使用带 <details> 标记的折叠部分信息来简化 Markdown 
+https://docs.github.com/zh/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections
+--!>
 <details>
 
 <summary>Tips for collapsed sections</summary>

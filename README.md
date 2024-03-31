@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
 <!-- 
 Github统计卡片: 显示Stats
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md 
@@ -25,4 +29,4 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 -->
 [![OldGerman's GitHub stats](https://github-readme-stats.vercel.app/api?username=oldgerman)](https://github.com/anuraghazra/github-readme-stats)![OldGerman's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oldgerman&layout=compact&hide_border=true&langs_count=10)
 
-
+</details>
